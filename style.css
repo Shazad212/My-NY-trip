@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.main {
+  background-image: ;
+}
+
 body {
   font-family: 'Muli', sans-serif;
   display: flex;
@@ -12,6 +16,7 @@ body {
   height: 100vh;
   overflow-x: hidden;
   margin: 0;
+  background-image: url('https://images.unsplash.com/photo-1498447817931-2edda1605b97?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80');
   
 }
 
@@ -67,6 +72,17 @@ body {
     display: none;
 }
 }
-
+h3 {
+  color: rgb(95, 41, 10);
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
   
   
